@@ -1,2 +1,12 @@
-# RPOS
-Fikcyjny Projekt RPOS (RestaurantPOS) dla Zabawy i celów Edukacyjnych.
+## RPOS
+-----------------
+Login do Kasjera:
+login: cashier
+hasło: rpos2
+-----------------
+Login do Menedżera:
+login: root
+hasło: rpos1
+------------------
+
+Pozdrawiam :)

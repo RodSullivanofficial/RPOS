@@ -1,0 +1,10 @@
+C:\Users\M\source\repos\RPOS\bin\Debug\RPOS.exe.config
+C:\Users\M\source\repos\RPOS\bin\Debug\RPOS.exe
+C:\Users\M\source\repos\RPOS\bin\Debug\RPOS.pdb
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.Properties.Resources.resources
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.csproj.GenerateResource.cache
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.exe
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.pdb
+C:\Users\M\source\repos\RPOS\obj\Debug\RPOS.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPOS", "RPOS.csproj", "{7AAAF966-8465-4637-9219-06D8521A0356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAAF966-8465-4637-9219-06D8521A0356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAAF966-8465-4637-9219-06D8521A0356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAAF966-8465-4637-9219-06D8521A0356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAAF966-8465-4637-9219-06D8521A0356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD060B57-B1B0-40FE-B985-89D82076D0B5}
+	EndGlobalSection
+EndGlobal
